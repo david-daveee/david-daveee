@@ -1,4 +1,4 @@
-# About me:
+## About me:
 - 👋 Hi, I’m David.
 - 👀 I’m study at Open University.
 - ❤️ I like programming and learning all sorts of interesting things.
